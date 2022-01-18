@@ -1,5 +1,6 @@
 # FinalGitApp
 THis app use ViewModel,Coroutines,Recycler View and Retrofit Librarie
+
 This app uses the GitHub Api provided by https://api.github.com and is based on the MVVM architecture.
 
 ## ScreenShorts
