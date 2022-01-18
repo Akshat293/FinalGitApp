@@ -1,5 +1,6 @@
 # FinalGitApp
 This app is based on GitApi 
+THis app use ViewModel,Coroutines,Recycler View and Retrofit Librarie
 
 ## ScreenShorts
 
