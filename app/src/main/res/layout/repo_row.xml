@@ -5,6 +5,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/itemRoot"
         android:layout_margin="5dp"
+        android:background="@drawable/lay_back"
         android:orientation="horizontal">
 
 
